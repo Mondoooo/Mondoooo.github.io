@@ -13,7 +13,7 @@
 
 
 
-  ```
+  ```bash
 
   ## CMD INSTALL
   ```bash
