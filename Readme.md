@@ -3,17 +3,10 @@
   <img src="https://image01.realme.net/general/20210222/1613998752841.png.webp" />
 </p>
 
-- 👼 My name is Pino
-- 🍼 I am 16 years old
-- 🔭 I am not programmer
-
 <h1 align="center"> Connect with me
   <p align="center">
-    <a href="https://instagram.com/xnoob_ganz"><img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://asset.kompas.com/crops/iMSoQQCUcHhryiwhcHXsOSe03jU=/0x0:1200x800/780x390/data/photo/2021/03/03/603f869a3fea7.png)" />
-      <a href="https://api.whatsapp.com/send/?phone=6285869484139&text=Assalamualaikum+Stah+Bolehkah+Kita+Berteman+?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-        <a href="https://github.com/PinoRecode"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-          <a href="https://www.youtube.com/channel/UCMnOhcDe_-8yE9jobx-JenA"><img src="https://img.shields.io/youtube/channel/subscribers/UCMnOhcDe_-8yE9jobx-JenA?style=social" /> <br>
-  </p>
+    <a href="https://instagram.com/xnoob_ganz"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" />
+     
 
 
   ![Profile Dilihat](https://komarev.com/ghpvc/?username=pinomodz&color=blue&style=flat-square&label=Profile+Dilihat)
