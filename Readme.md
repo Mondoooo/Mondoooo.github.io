@@ -9,16 +9,7 @@
      
 
 
-  ![Profile Dilihat](https://komarev.com/ghpvc/?username=pinomodz&color=blue&style=flat-square&label=Profile+Dilihat)
-  ### Stats:
-
-  <p align="center"><a href="https://github.com/PinoRecode"><img src="https://github-readme-stats.vercel.app/api?username=PinoRecode&show_icons=true&theme=radical"></a></p>
-  <p align="center"><a href="https://github.com/PinoRecode"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoRecode&theme=radical&layout=compact"></a></p>
-
-  
-
-    </div>
-
+ 
 
 
 
