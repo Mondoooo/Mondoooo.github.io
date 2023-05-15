@@ -1,4 +1,4 @@
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm pino modz 😇 </h1>
+<h1 align="center">Info Seputar Relame Narzo 30a <img src="https://media.tenor.com/XBXS-0LURA4AAAAj/cell-cell-phone.gif" width="40px"</h1>
 <p align="center">
   <img src="https://image01.realme.net/general/20210222/1613998752841.png.webp" />
 </p>
