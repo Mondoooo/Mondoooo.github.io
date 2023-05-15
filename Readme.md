@@ -5,7 +5,7 @@
 
 <h1 align="center"> Connect with me
   <p align="center">
-    <a href="https://instagram.com/xnoob_ganz"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" />
+    <a href="https://t.me/RMX3171"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" />
      
 
 
@@ -15,50 +15,12 @@
   <p align="center"><a href="https://github.com/PinoRecode"><img src="https://github-readme-stats.vercel.app/api?username=PinoRecode&show_icons=true&theme=radical"></a></p>
   <p align="center"><a href="https://github.com/PinoRecode"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoRecode&theme=radical&layout=compact"></a></p>
 
-  ## Repo Stats
-  ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=ABOUT&theme=nightowl)
-  ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=home-termux-pinomod&theme=nightowl)
-  ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=Bot-Wa&theme=nightowl)
-  ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=self&theme=nightowl)
+  
 
-
-  <p>
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
-  </p>
-  <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br />
-
-    ![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
-
-  </details>
-
-  <details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br />
-
-    ![Metrics](https://metrics.lecoq.io/PinoRecode?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
-
-  </details>
-
-  <p>
-
-    >
-    >
-    >
     </div>
-  <p align="center">
-    <a href="https://github.com/PinoRecode/"><img title="Author" src="https://img.shields.io/badge/Author-PINOXCODE-red.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
-    <a href="https://wa.me/6285869484139"> CHAT DEVELOPER </a>
-  </h4>
-  </p>
 
-  ```bash
 
-  > Cara Setting Tampilan Termux Menjadi Lebih Keren:v
+
 
   ```
 
